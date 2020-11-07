@@ -2,7 +2,6 @@ import React from "react";
 import Impresie from "./impresie";
 import Container from "react-bootstrap/Container";
 import ListaImpresii from "./listaimpresii";
-import { alignPropType } from "react-bootstrap/esm/DropdownMenu";
 
 const lista = [
   {
